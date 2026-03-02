@@ -1,0 +1,12 @@
+{
+  "name": "Ahtasham's Dotfiles",
+  "postCreateCommand": "bash install.sh",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.profiles.linux": {
+      "zsh": {
+        "path": "/usr/bin/zsh"
+      }
+    }
+  }
+}
